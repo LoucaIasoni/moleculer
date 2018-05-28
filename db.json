@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "6f38aa45-5b08-4aa7-83c8-6b2f85b1dce5",
+      "email": "david.roman",
+      "lastname": "roman",
+      "firstname": "david",
+      "isAdmin": true
+    },
+    {
+      "id": "a41c5f0d-fea5-498d-bba6-a31165db3f71",
+      "email": "user1",
+      "lastname": "user1",
+      "firstname": "user1",
+      "isAdmin": false
+    },
+    {
+      "id": "3ecc9607-e043-4e53-980b-3fd6e02be04f",
+      "email": "user2",
+      "lastname": "user2",
+      "firstname": "user2",
+      "isAdmin": false
+    },
+    {
+      "id": "d51b2d35-34ea-4a21-abc1-66e5f93a9fe4",
+      "email": "user3",
+      "lastname": "user3",
+      "firstname": "user3",
+      "isAdmin": false
+    },
+    {
+      "id": "f6f9a225-b3c8-4673-b92d-6e8bbd46f68c",
+      "email": "user4",
+      "lastname": "user4",
+      "firstname": "user4",
+      "isAdmin": false
+    }
+  ],
+  "channel": [
+    {
+      "id": "c44713ef-f06e-4973-be94-98a3c8b2f795",
+      "id_user": "6f38aa45-5b08-4aa7-83c8-6b2f85b1dce5",
+      "firstname": "david",
+      "lastname": "roman",
+      "messages": [
+        {
+          "id": "1ff540cb-644b-421e-88de-48883f341564",
+          "id_user": "6f38aa45-5b08-4aa7-83c8-6b2f85b1dce5",
+          "firstname": "david",
+          "lastname": "roman",
+          "message": "Bonsoir"
+        },
+        {
+          "id": "aba1acfc-4cad-46d9-9566-0fb2b54893a2",
+          "id_user": "6f38aa45-5b08-4aa7-83c8-6b2f85b1dce5",
+          "firstname": "david",
+          "lastname": "roman",
+          "message": "oui"
+        }
+      ]
+    },
+    {
+      "id": "98d4be2a-afe2-4b15-ba8a-432682a803fb",
+      "id_user": "a41c5f0d-fea5-498d-bba6-a31165db3f71",
+      "firstname": "user1",
+      "lastname": "user1",
+      "messages": []
+    },
+    {
+      "id": "54261d68-114f-46f0-9965-6ce103da356d",
+      "id_user": "3ecc9607-e043-4e53-980b-3fd6e02be04f",
+      "firstname": "user2",
+      "lastname": "user2",
+      "messages": []
+    },
+    {
+      "id": "5b12ecef-c848-4f51-a726-100328d7e1d8",
+      "id_user": "d51b2d35-34ea-4a21-abc1-66e5f93a9fe4",
+      "firstname": "user3",
+      "lastname": "user3",
+      "messages": []
+    },
+    {
+      "id": "a14f73d1-7749-417f-bae1-fc42d9eb7fca",
+      "id_user": "f6f9a225-b3c8-4673-b92d-6e8bbd46f68c",
+      "firstname": "user4",
+      "lastname": "user4",
+      "messages": [
+        {
+          "id": "4d7c7961-4834-4405-af9b-b79f17d62820",
+          "id_user": "f6f9a225-b3c8-4673-b92d-6e8bbd46f68c",
+          "firstname": "user4",
+          "lastname": "user4",
+          "message": "coucou"
+        },
+        {
+          "id": "029e99ba-76f8-4560-8a4f-3c0750908ff9",
+          "id_user": "f6f9a225-b3c8-4673-b92d-6e8bbd46f68c",
+          "firstname": "user4",
+          "lastname": "user4",
+          "message": "oui"
+        },
+        {
+          "id": "ed3b1582-ba0f-4e2e-a64a-a8fc20ee30c5",
+          "id_user": "6f38aa45-5b08-4aa7-83c8-6b2f85b1dce5",
+          "firstname": "david",
+          "lastname": "roman",
+          "message": "bonjour"
+        },
+        {
+          "id": "ee34c5d6-dc85-439d-b0df-bd866db9ee81",
+          "id_user": "f6f9a225-b3c8-4673-b92d-6e8bbd46f68c",
+          "firstname": "user4",
+          "lastname": "user4",
+          "message": "oui"
+        }
+      ]
+    }
+  ]
+}
